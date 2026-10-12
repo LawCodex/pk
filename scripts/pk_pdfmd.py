@@ -19,11 +19,11 @@ import re, subprocess
 FOOTER = re.compile(r"^\s*(Page\s+\d+\s+of\s+\d+|\d{1,4}|-\s*\d+\s*-)\s*$", re.I)
 FN_START = re.compile(r"^(\d{1,3})\s*$")
 SUP_LINE = re.compile(r"^\s{2,}(\d{1,3}(?:\s+\d{1,3})*)\s*$")
-PART = re.compile(r"^\[?\s*(?:\d{1,3}\s*\[)?\s*(PART|Part)\s+[IVXLC\d]+[A-Z]?\b")
-CHAP = re.compile(r"^\[?\s*(?:\d{1,3}\s*\[)?\s*(CHAPTER|Chapter)\s+[IVXLC\d]+[A-Z]?\b")
+PART = re.compile(r"^\[?\s*(?:\d{1,3}\s*\[)?\s*(PART|Part)[\s\-–]*[IVXLC\d]+[A-Z]?\b")
+CHAP = re.compile(r"^\[?\s*(?:\d{1,3}\s*\[)?\s*(CHAPTER|Chapter)[\s\-–]*[IVXLC\d]+[A-Z]?\b")
 SCHED = re.compile(r"^\[?\s*(?:\d{1,3}\s*\[)?\s*((THE\s+)?([A-Z]+\s+)?SCHEDULE|ANNEX(URE)?|APPENDIX|FORM)\b")
 SECTION = re.compile(r"^((?:<sup>\d+</sup>|\d{1,3}(?=\s*\[))?\s*\[?\s*)(\d{1,4}[A-Z]{0,3}(?:-[A-Z])?)\.\s+(.*)$", re.S)
-DELIMS = ["__", ".—", ".–", ".-", ". —", ". –", ":—", ":-", "—", "–"]
+DELIMS = ["__", ".—", ".–", ".―", ".‒", ".-", ". —", ". –", ". ―", ":—", ":-", ":―", "—", "–", "―"]
 TOCLINE = re.compile(r"^\[?\d{1,4}[A-Z]{0,3}\.\s+\S")
 
 
@@ -192,7 +192,7 @@ def split_heading(rest):
     title = rest[:i].strip()
     if not title or len(title) < 2:
         return None, rest
-    return title.rstrip(".").strip() + ".", rest[j:].strip()
+    return title.rstrip(".").strip(), rest[j:].strip()
 
 
 def to_markdown(pdf_path, level_base=2):

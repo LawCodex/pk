@@ -1,0 +1,1084 @@
+---
+title: "Smart Institute of Science and Technology Act, 2022"
+identifier: "XXXIV of 2022"
+type: act
+jurisdiction: pk
+language: en
+date: 2022-12-07
+status: in_force
+category: "General Laws"
+source: "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5ljbw%3D%3D-sg-jjjjjjjjjjjjj"
+source_pdf: "https://pakistancode.gov.pk/pdffiles/administrator5f288779d3a1932171f8771d3201b30f.pdf"
+retrieved: 2026-10-12
+---
+
+# Smart Institute of Science and Technology Act, 2022
+
+THE SMART INSTITUTE OF SCIENCES & TECHNOLOGY ACT, 2022  
+CONTENTS  
+CHAPTER-I  
+PRELIMINARY  
+1. Short Title, Extent and Commencement.  
+2. Definitions.  
+CHAPTER-II  
+THE INSTITUTE  
+3. Establishment and Incorporation of the Institute.  
+4. Functions and Powers of the Institute.  
+5. Institute open to all classes, creeds, etc.  
+6. Teaching at the Institute.  
+CHAPTER-III  
+OFFICERS OF THE INSTITUTE  
+7. Officers of the Institute.  
+8. Patron.  
+9. Visitation.  
+10. Chancellor.  
+11. Removal from the Board of Governors.  
+12. Vice-Chancellor.  
+13. Appointment and Removal of the Vice-Chancellor.  
+14. Dean.  
+15. Registrar.  
+16. Treasurer.  
+17. Controller of Examinations.  
+CHAPTER-IV  
+AUTHORITIES OF THE INSTITUTE  
+18. Authorities.  
+19. Board of Governors.  
+20. Powers and functions of the Board of Governors.  
+21. Syndicate.  
+22. Powers and duties of the Syndicate.  
+23. Director Planning and Development.  
+24. Director Quality Enhancement Cell (QEC).  
+25. Director of Office of Research, Innovation and Commercialization (ORIC).  
+26. Academic Council.  
+27. Powers and functions of the Academic Council.  
+28. Representation Committees.  
+29. Appointment of Committees by certain Authorities.  
+CHAPTER-V  
+STATUTES, REGULATIONS AND RULES  
+30. Statutes.  
+31. Regulations.  
+32. Amendment and repeal of Statutes and Regulations.  
+33. Rules.  
+CHAPTER-VI  
+INSTITUTE FUND  
+34. Institute Fund.  
+35. Audit and Accounts.  
+CHAPTER-VII  
+GENERAL PROVISIONS  
+36. Service of the Institution.  
+37. Opportunity of show cause.  
+38. Appeal to the Board of Governors.  
+39. Benefits and Insurance.  
+40. Commencement of term of members of Authorities.  
+41. Filling of casual vacancies in authorities.  
+42. Disputes about membership of authorities.  
+43. Proceedings of authorities not invalidated by the vacancies.  
+44. Transitory Provisions.  
+45. Removal of Difficulties.  
+46. Flaws in constitution of authority.  
+47. First Statute and Regulations.  
+48. Indemnity.  
+
+THE SMART INSTITUTE OF SCIENCES & TECHNOLOGY ACT, 2022
+
+ACT NO. XXXIV OF 2022
+
+[13th December, 2022]
+
+An Act to provide for the establishment of the Smart Institute of Sciences & Technology
+
+WHEREAS it is necessary to provide for the establishment of the Smart Institute of Sciences & Technology in the private sector and to provide for matters connected therewith and ancillary thereto;
+
+It is hereby enacted as follows:-
+
+### CHAPTER-I
+
+PRELIMINARY
+
+#### 1. Short Title, Extent and Commencement
+
+(1) This Act may be called the Smart Institute of Sciences & Technology Act, 2022.
+
+(2) It shall extend to whole of Pakistan.
+
+(3) It shall come into force at once.
+
+#### 2. Definitions
+
+In this Act, unless there is anything repugnant in the subject or context,-
+
+(a) “Academic Council” means the Academic Council of the Institute;
+
+(b) “Authority” means any of the Authorities of the Institute setup under section 18;
+
+(c) “Chancellor” means the Chancellor of the Institute;
+
+(d) “College” means a constituent college;
+
+(e) “Commission” means the Higher Education Commission of Pakistan set up under the Higher Education Commission Ordinance, 2002 (LIII of 2002);
+
+(f) “Constituent College” means an educational institution, by whatever name described, maintained and administered by the Institute;
+
+(g) “Company” means “SMART HIGHER EDCUATION SERVICES (PVT).
+
+LIMITED” registered vide corporate Unique No. 0193409 with Security and Exchange Commission of Pakistan;”
+
+(h) “Dean” means the head of a faculty or the head of an academic body granted the status of faculty by this Act or by Statues or Regulations;
+
+(i) “Department” means a teaching department maintained and administered, or recognizes by the institute in the manner prescribed;
+
+(j) “Director” means the head of an institute established as a constituent institution by the institute by statute or regulations in terms of the powers delegated by this Act;
+
+(k) “Syndicate” means the Syndicate of the institute constituted under this Act;
+
+(l) “Faculty” means an administrative and academic unit of the Institute consisting of one or more Departments/Schools;
+
+(m) “Government” means the Federal Government;
+
+(n) “Institute” means “Smart University”;
+
+(o) “Officer” means any officer(s) of the Institute;
+
+(p) “Patron” means the Patron of the Institute;
+
+(q) “Prescribed” means prescribed by Statutes, regulations or rules made under this Act;
+
+(r) “Professor Emeritus” means a retired Professor appointed by the Chancellor on honorary basis;
+
+(s) “Principal” means the head of a Constituent unit/collage;
+
+(t) “Registrar” means the Registrar of the Institute;
+
+(u) “Review Panel” means the Review Panel setup by the Chancellor in accordance with the provisions of this Act;
+
+(v) “Representation Committees” means the representation committees constituted under section 25;
+
+(w) “Search Committees” means the search committee set up by the Board of Governors under this Act;
+
+(x) “Statutes”, “Regulations” and “Rules” means respectively the Statutes, the Regulations and the Rules made under this Act and for the time being inforce;
+
+(y) “Teacher” includes Professor, Associate Professor, Assistant Professor and Lecturer engaged whole-time by the Institute, or by a constituent college and such other persons as may be declared to be teacher by regulations;
+
+(z) “Institute Teacher” means a whole-time teacher appointed and paid by the Institute or recognized by the institution;
+
+(aa) “Vice-Chancellor” means the Vice-Chancellor of the Institute; and
+
+(ab) “Schedule” means Schedules under this Acts.
+
+### CHAPTER-II
+
+THE INSTITUTE
+
+#### 3. Establishment and Incorporation of the Institute
+
+(1) There shall be established at Rawalpindi a Institute to be called the Smart Institute of Sciences & Technology consisting of,—
+
+(a) The Patron, the Chancellor, the Vice Chancellor, the members of the Board of Governors, Syndicate,
+
+(b) The members of the Authorities of the institute established under this Act;
+
+(c) All Institute teachers and persons recognized as student of the Institute in accordance with the terms prescribed from time to time; and
+
+(d) All other full time officers and members of the staff of the institute.
+
+(2) The Institute shall be a body corporate by such name as may be notified and shall have perpetual succession and a common seal, and may sue and be sued by the said name.
+
+(3) The principal seat of the Institute shall be at Rawalpindi and it may set up its campuses, colleges/school, institutes, offices, research/study centers and other facilities at such places in Pakistan as Board of Governors may determine. The additional campuses shall be setup in other parts of the country only after their evaluation by the Higher Education Commission to determine whether they meet the eligibility criteria fixed by the Commission.
+
+(4) The Institute shall be competent to acquire and hold property, both movable and immovable, and to lease, sell or otherwise transfer any movable and immovable property which may have become vested in or been acquired by it.
+
+(5) Notwithstanding anything contained in any other law for the time being in force, the Institute shall have academic, financial and administrative autonomy, including the power to employ officers, teachers and other employees on such terms as may be prescribed, subject to the terms of this Act and the Higher Education Commission Ordinance, 2002 (LIII of 2002). In particular, and without prejudice to the authority granted to the Commission by the law, the Government or an authority or auditor appointed by the Government shall have no power to question the policy underlying the allocation of resources approved by the Board of Governors in the annual budget of the Institute.
+
+#### 4. Functions and Powers of the Institute
+
+(1) The Institute shall be an autonomous body and shall have the powers to,__
+
+(a) Provide for teaching and training in faculties of Computer Sciences & Information Technology, Management Sciences and Business Administration, Law, Commerce, Humanities, and Social Sciences, Art and Fashion Designing, Engineering, Architecture and Design, Natural Sciences, Food and Culinary Sciences, Pharmaceutical Sciences, and any other branches of knowledge as the Board of Governors may determine and, where applicable, subject to the prior approval of the relevant statutory body of professional education;
+
+(b) Decide teaching methods and strategies in order to ensure the most effective educational and training programs that may include virtual, on-campus, online, distance learning, lectures, tutorials, discussion, courses of studies, seminars, demonstrations and other methods of instructions as well as practical work, workshops, internship, apprenticeship in the industries, financial institutions, laboratories, hospitals, and other organizations etc.;
+
+(c) Hold examinations and to award and confer degrees, diplomas, certificates and other academic distinction to and on persons who have been admitted to and have passed its examinations under prescribed conditions;
+
+(d) Award degrees diploma, certificate and other academic distinction to the person who fulfilled all the mandatory prerequisites for this purpose;
+
+(e) Confer honorary degree on a person of eminence subject to the prior approval of the Chancellor;
+
+(f) Offer employment/promotion as Professor, Associate Professor, Assistant Professor, Lecturer, Teaching Fellow, Research Associate, Research Assistant, Principal Officers and other employees for teaching/research/administrative work in the institute;
+
+(g) To Institute a program for exchange of students and teacher between the students and other institutes, Universities and other educational institutions and research organizations, inside as well as outside Pakistan;
+
+(h) Allow the credit transfer of study spent by a student of the institute at any other Institute or place of learning equal and to credit transfer of study of the institute and may withdraw such acceptance as per prevalent policy;
+
+(i) promote extracurricular and recreational activities of the students and make arrangements for promoting the health and general Welfare of the students;
+
+(j) Institute and collaborate with a national or international institute/authority, public/private, research/commercial/ industrial enterprise for the students/ faculty exchange faculty training/ research/advisory/consultancy services in the manner and for such purpose as may be prescribed;
+
+(k) Sandwich Programs and Split Programs between National and International Universities; ‘
+
+(l) Create a post for teaching/administration/training/ research or other related purposes;
+
+(m) May enter into, carry out, vary or cancel contacts where necessary;
+
+(n) Print and publish Research or other Intellectual Patents; and perform any other prescribed Ancillary Function;
+
+(o) Make provision for Research, Advisory for Consultancy Services, sign MoUs and enter into arrangements with any other Institution, Public or Private Body, Commercial or Industrial enterprise in the prescribed manner; receive and manage property transferred and grants, contributions made to the Institute and to invest any fund in the manner as it may deem fit;
+
+(p) Develop and implement fundraising plants;
+
+(q) Demand and receive such fees and other charges from the students as it may determine from time to time;
+
+(r) Start financial aid programs for students in need, to the extent considered feasible by the board of governors given the resources available, so as to enable admission and access to the institute and the various opportunities provided by it to be based on merit rather than ability to pay;
+
+(s) Receive, manage, transfer and dispose of property, grants, contributions made to the Institute and to invest and fund in the manner as it may be prescribed;
+
+(t) Maintain order, discipline and security in the campus of the institute;
+
+(u) Perform any other prescribed-or ancillary function;
+
+(v) To prescribe terms and conditions of the employment of the officers, teachers and other employees of the institute and to lay down terms and conditions that they may be different from those applicable to government servants in general;
+
+(w) To accept the examination passed and the period of study spent by students of Institutes of other universities and the place of learning equivalent to such examinations and periods of study in institute, as it may prescribed, and to withdraw such acceptance; and
+
+(x) To co-operate with other universities, public authorities or private organizations, inside as well as outside Pakistan, in such manner and for such purpose as it may prescribe.
+
+#### 5. Institute open to all classes, creeds, etc
+
+(1) The Institute shall be open to all persons of either gender and of whatever religion, race, creed, class, color or domicile and no person shall be denied privileges of the Institute on the grounds of religion, race, caste, creed, class, color or domicile.
+
+(2) An increase in any charge that is in excess of ten percent per annum on an annualized basis from the last search increase may not be made except in special circumstances, and only with the approval of the Chancellor.
+
+(3) The Institute shall institute financial aid programmes for students in need, to the extent considered feasible by the Board of Governors given by the resources available, so as to enable admission and access to the Institute and the various opportunities provided by it to be based on merit rather than ability to pay.
+
+#### 6. Teaching at the Institute
+
+(1) All recognized teaching in various courses shall be conducted by the Institute or the colleges in the prescribed manner and may include lectures, tutorials, discussions, seminars, demonstrations and other methods of instruction as well as practical work in the laboratories, hospitals, workshops and other organizations.
+
+(2) The Institute may setup any number of campuses, at such places in Pakistan or abroad as the Board of Governors may determine and with prior approval of Higher Education Commission.
+
+### CHAPTER-III
+
+OFFICERS OF THE INSTITUTE
+
+#### 7. Officers of the Institute
+
+The following shall be the officers of the Institute, namely:—
+
+(a) The Patron;
+
+(b) The Chancellor;
+
+(c) The Vice-Chancellor;
+
+(d) The Deans;
+
+(e) The Principals of the constituent colleges/units;
+
+(f) The Head of the teaching departments;
+
+(g) The Registrar;
+
+(h) The Treasurer;
+
+(i) The Controller of Examinations; and
+
+(j) Such other persons as may be prescribed by the statutes or regulations to be the principal officers of the Institute.
+
+#### 8. Patron
+
+( 1) The President of Islamic Republic of Pakistan Shall be the Patron of the Institute.
+
+(2) The Patron shall, when present, preside at the convocation of the Institute. In the absence of the Patron, the Board of Governors may request a person of eminence of the Chancellor to preside over the convocation of the Institute.
+
+(3) Every proposal to confer an honorary degree shall be subject to confirmation by the Patron.
+
+#### 9. Visitation
+
+(l) The Patron may, in accordance with the terms and procedures as may be prescribed, cause an inspection or inquiry to be made on his own motion or at the request of the Higher Education Commission in respect of any matter connected with the affairs of the institute and shall, from time to time, direct any person or persons to inquire into or carry out inspection of,—
+
+(a) The Institute, its building, laboratories, libraries and other facilities;
+
+(b) Any Institution, department or hostel maintained by the Institute;
+
+(c) The adequacy of financial and human resources;
+
+(d) The teaching, research, curriculum, examination and other matters of the Institute; and
+
+(e) Such other matters as the Patron may specify.
+
+(2) The Patron shall communicate to the Board of Governors his views with regard to the result of visitation and shall, after ascertaining the views of the Board of Governors, advise the Chancellor on the action to be taken by it.
+
+(3) The Chancellor shall, within such time as may be specified by the Patron, communicate to him such action, if any, as has been taken or may be proposed to be taken upon the results of visitation.
+
+(4) Where the Board of Governors does not, within the time specified, take action to the satisfaction of the Patron, the Patron may issue such directions as he deems fit and Board of Governors shall comply with all such directions.
+
+#### 10. Chancellor
+
+(1) One of the Directors of the “Smart Higher Education Services (Pvt) LTD.” with the mutual consent of the other Directors of the company shall be chancellor and chairperson of Board of Governors.
+
+(2) The members of the Board of Governors as well as the Vice-Chancellor shall be appointed by the Chancellor from among the persons recommended by the Representation Committee set up for this purpose or the Search Committee established in accordance with this Act and the statutes, as the case may be, along with those selected.
+
+(3) If the Chancellor is satisfied that serious irregularity or mismanagement with respect to the affairs of the Institute has occurred, he may,-
+
+(a) As regards proceedings of the Board of Governors, direct that specified to proceedings be reconsidered and appropriate action taken within one month of the direction having been issued.
+
+Provided that if the Chancellor satisfied that either no reconsideration has been carried out or that the reconsideration has failed to address the concern expressed he may, after calling upon the Board of Governors to show cause in writing, appoint a five member Review Panel to examine and report to the Chancellor on the functioning of the Board of Governors. The report of the Review Panel shall be submitted within such time as may be prescribed by the Chancellor. The Review Panel shall be drawn from persons of eminence in academics and in the fields of law, accountancy and administration; and
+
+(b) As regards proceedings of any Authority or with respect to matters within the competence of any Authority other than the Board of Governors, direct the Board of Governors to exercise powers under this Act.
+
+(4) The Chancellor may remove any person from the membership of any authority if such person,—
+
+(a) Has been found of unsound mind; or
+
+(b) Has been incapacitated to function as a member of such authority; or
+
+(c) Has been convicted by a court of law for an offence involving moral turpitude;
+
+or
+
+(d) Has been found indulging in any activity against the interest of the Institute.
+
+(5) If the Chancellor be incapacitated from acting as such due to absence or any other cause, the Vice-Chancellor or a nominee of the Chancellor shall act for him.
+
+#### 11. Removal from the Board of Governors
+
+(1) The Chancellor may, upon the recommendation of the Review Panel, remove any person from the membership of the Board of Governors on the grounds that such person,—
+
+(a) Has become of unsound mind; or
+
+(b) Has become incapacitated to function as member of the Board of Governors; or
+
+(c) Has been convicted by a court of law for an offence involving moral turpitude;
+
+or
+
+(d) Has absented himself from two consecutive meetings without Just Cause; or
+
+(e) Has been guilty of misconduct, including use of position for personal advantage of any kind, or gross in efficiency in the performance of functions.
+
+(2) The Chancellor shall remove any person from the membership of the Board of Governors on the resolution calling for the removal of such person supported by at least three-fourth of the membership of the Board of Governors:
+
+Provided that before passing such resolution, the Board of Governors shall provide the member concerned a fair hearing:
+
+Provided further that the provisions of this section shall not be applicable to the Vice- Chancellor in his capacity as a member of the Board of Governors.
+
+#### 12. Vice-Chancellor
+
+(l) There shall be a Vice-Chancellor of the Institute who shall be an eminent academician or a distinguished administrator and shall be appointed on such terms and conditions as may be prescribed.
+
+(2) The Vice-Chancellor shall be the chief executive officer of the institute responsible for all administrative and academic functions of the institute and for ensuring that the provisions of this act and statutes regulations and rules are faithfully observed to promote the general efficiency and good order of the institute. The Vice-Chancellor shall have all powers prescribed for this purpose, including administrative control over all the officers, teachers and other employees of the Institute.
+
+(3) The Vice-Chancellor shall, if present, be entitled to attend any meeting of any authority or body of the Institute.
+
+(4) The Vice-Chancellor, in an emergency requiring immediate action ordinarily not in competence of the Vice-Chancellor, may take such action and forward, within seventy-two hours, report of the action taken to the members of the Emergency Committee of the Board of Governors to be set up by statute. The Emergency Committee may direct such other further action as considered appropriate.
+
+(5) The Vice-Chancellor shall also have the following powers, namely:—
+
+(a) To direct teachers, officers and other employees of the Institute to take up such assignments in connection with examination, administration and such other activities in the Institute as he may considered necessary for purposes of the Institute;
+
+(b) To sanction by re-appropriation an amount, not exceeding an amount prescribed by the Board of Governors, for an unforeseen item not provided for in the budget and report it the Board of Governors at the next meeting;
+
+(c) To make appointment of such categories of employees of the Institute and in such manner as may be prescribed by the statutes;
+
+(d) To suspend, punish and removed from service, in accordance with prescribed procedure, officers, teachers and other employees of the institute except those who appointed by or with the approval of the board of Governors;
+
+(e) To delegate, subject to such conditions as may be prescribed, any office powers under this act to an officer or officers of the Institute; and
+
+(f) To exercise and perform such other powers and functions as may be prescribed.
+
+(6) The Vice-Chancellor shall preside at the convocation of the Institute in the absence of the Chancellor.
+
+(7) The Vice-Chancellor shall present an annual report before the Board of Governors within three months of the close of the academic year. The annual report shall present such information as regard the academic year under review as may be prescribed, including disclosure of all relevant fact pertaining to,—
+
+(a) Academies;
+
+(b) Research;
+
+(c) Administration; and
+
+(d) Finances
+
+#### 13. Appointment and Removal of the Vice-Chancellor
+
+(1) The Vice-Chancellor shall be appointed by the Chancellor or recommendations made by the Board of Governors.
+
+(2) A Search Committee for the Recommendation of person suitable for appointment as Vice-Chancellor shall be constituted by the Board of Governors on the date and in the manner prescribed by the Statutes and shall consist of two eminent members of society nominated by the Chancellor of whom one shall be appointed the Convener, two members of the Board of Governors, two distinguished Institute Teachers who are not members of the Board of Governors and one academician of eminence not employed by the Institute. The two distinguished Institute Teachers shall be selected by the Board of Governors through a process, to be prescribed by Board of Governors that provides for the Recommendation of suitable names by the Institute Teachers in general. The Search Committee shall remain in existence till such time that the appointment of the next the Vice-Chancellor has been made by the chancellor.
+
+(3) The persons proposed by the Search Committee for appointment as Vice-Chancellor shall be considered by the Board of Governors and of these a panel of three, in order of priority, shall be recommended by the Board of Governors to the Chancellor:
+
+Provided that the Chancellor may decline to appoint any of the three persons recommended and seek recommendations of a fresh panel. In the event of a fresh recommendation being sought by the Chancellor the Search Committee shall make a proposal to the Board of Governors in the prescribed manner.
+
+(4) The Vice-Chancellor shall be appointed for a renewable tenure of four years on terms and conditions prescribed by statute. The tenure of an incumbent Vice-Chancellor shall be renewed by the Chancellor on receipt of a resolution of the Board of Governors in support of such renewal:
+
+Provided that the Chancellor may call upon the Board of Governors to reconsider such resolution once.
+
+(5) The Board of Governors may, pursuant to a resolution in this behalf passed by three-fourth of its membership, recommend to the Chancellor the removal of the Vice-Chancellor on the ground of inefficiency, moral turpitude or physical or mental incapacity or gross misconduct, including misuse of position for personal advantage of any kind:
+
+Provided that the Chancellor may make a reference to the Board of Governors stating about instance of in-efficiency, moral turpitude or physical or mental incapacity or gross misconduct on the part of the Vice-Chancellor that has come to his notice. After consideration of the reference of the Board of Governors may, pursuant to a resolution in this behalf passed by two third of its membership, recommend to the Chancellor the removal of the Vice-Chancellor:
+
+Provided further that prior to a resolution for removal of the Vice- Chancellor being voted upon, the Vice-Chancellor shall be given an opportunity of being heard.
+
+(6) A resolution recommending removal of the Vice-Chancellor shall be submitted to the Chancellor forthwith full stop the Chancellor may accept the recommendation and order removal of the Vice-Chancellor or return the recommendation to the board of governors.
+
+(7) At any time when the office of the Vice-Chancellor is vacant, or the Vice-Chancellor is absent or is unable to perform functions of his office due to illness or some other cause the Board of Governors shall make such arrangements for performance of the duties of the Vice-Chancellor as it may deem fit.
+
+#### 14. Dean
+
+(1) There shall be a dean of each faculty to be appointed by the Chancellor on recommendation of the Vice-Chancellor, on such terms and conditions as may be prescribed.
+
+(2) The dean shall be in charge of the faculty and shall assist the Vice- Chancellor on matters relating to teaching, research, academic program and extension of other development projects.
+
+(3) Subject to overall supervision of the Vice-Chancellor, the dean shall formulate and recommend to the academic Council, rules and relegations relating to academic and research method of the faculty.
+
+(4) That dean shall also have the following powers, namely:—
+
+(a) To collaborate with universities, industry and other research organizations;
+
+(b) To formulate recommendations to the Academic Council on the courses of study to be taught in different departments of the faculty;
+
+(c) To co-ordinate the award of fellowships, stipends, medals and prizes;
+
+(d) To co-ordinate the teaching and research work of the faculty;
+
+(e) To perform such other functions and exercise such other powers as may be entrusted or delegated to him by the Board of Governors or the Vice-Chancellor; and
+
+(f) To delegate any of his powers to appropriate levels of management, subject to such conditions as he may deem fit.
+
+#### 15. Registrar
+
+(1) There shall be a Registrar of the Institute to be appointed by the Chancellor on the recommendation of the Vice-Chancellor, on such terms and conditions as may be prescribed.
+
+(2) The experience as well as the professional and academic qualifications necessary for appointment to the post of the Registrar shall be as may be prescribed.
+
+(3) The Registrar shall be a full-time officer of the Institute and shall,__
+
+(a) Be the administrative head of the secretariat of the Institute and be responsible for the provision of secretariat support to the authorities of the Institute;
+
+(b) Be the custodian of the common seal and the academic record of the Institute;
+
+(c) Maintain a register of registered graduates in the prescribed manner;
+
+(d) Supervise the process of election, appointment or nomination of members to the various authorities and other bodies in the prescribed manner; and
+
+(e) Perform such other duties as may be prescribed.
+
+(4) The term of office of the Registrar shall be a renewable period of three years:
+
+Provided that the Board of Governors may, on advice of the Vice-Chancellor, terminate appointment of the Registrar on grounds of in-efficiency or misconduct in accordance with prescribed procedure.
+
+#### 16. Treasurer
+
+(l) There shall be a Treasurer of the Institute to be appointed by the Board of Governors on the recommendation of the Vice- Chancellor, on such terms and conditions as may be prescribed.
+
+(2) The experience as well as professional and academic qualifications necessary for appointment to the post of the Treasurer shall be as may be prescribed.
+
+(3) The Treasurer shall be chief financial officer of the Institute and shall,__
+
+(a) Manage the assets, liabilities, receipts, expenditures, funds and investments of the Institute;
+
+(b) Prepare the annual and revised budget estimates of the Institute and present them to the Executive Committee or a committee thereof for approval and incorporation in the budget to be presented to the Board of Governors;
+
+(c) Ensure that funds of the Institute are expended on the purposes for which they are provided;
+
+(d) Have the accounts of the Institute audited annually to be available for submission of the Board of Governor within six months of close of the financial year; and
+
+(e) Perform such other duties as may be prescribed.
+
+(4) The term of office of the Treasurer shall be a renewable period of three years:
+
+Provided that the Board of Governors may, on the advice of the Vice- Chancellor, terminate the appointment of the Treasurer on grounds of inefficiency or misconduct in accordance with prescribed procedure.
+
+#### 17. Controller of Examinations
+
+(1) There shall be a Controller of Examinations, to be appointed by the Board of Governors on the recommendation of the Vice-Chancellor, on such terms and conditions as may be prescribed.
+
+(2) The minimum qualifications necessary for appointment to the post of the Controller of Examinations shall be as may be prescribed.
+
+(3) The Controller of Examinations shall be a full-time officer of the Institute and shall be responsible for all matters connected with the conduct of examinations and shaI1 perform such other duties as may be prescribed.
+
+(4) The Controller of Examinations shall be appointed for a renewable term of three years:
+
+Provided that the Board of Governors may, on the advice of the Vice- Chancellor terminate appointment of the Controller of Examinations on grounds of in-efficiency or misconduct in accordance with the prescribed procedure.
+
+### CHAPTER-IV
+
+AUTHORITIES OF THE INSTITUTE
+
+#### 18. Authorities
+
+(1) The following shall be the authorities of the Institute, name1y:-
+
+(a) Authorities established by the act,—
+
+(i) Board of Governors;
+
+(ii) Syndicate;
+
+(iii) Academic Council;
+
+(b) Authorities to be established by the statutes,—
+
+(i) Board of Advanced Studies and Research;
+
+(ii) Board of Studies;
+
+(iii) Selection of board;
+
+(iv) Finance and Planning Committee;
+
+(v) Search Committee for the appointment of the Vice- Chancellor;
+
+(vi) Representation committees for appointment to the Board of Governors, Syndicate and the Academic Council;
+
+(vii) Quality Assurance Committee;
+
+(viii) Discipline Committee; and
+
+(ix) Such other authorities as may be prescribed by the Board of Governors.
+
+#### 19. Board of Governors
+
+(1) The body responsible for governance of the Institute shall be described as a Board of Governors, and shall consist of the following, namely:—
+
+(a) The Chancellor who shall be the chairperson of the Board of Governors;
+
+(b) The Vice-Chancellor;
+
+(c) One member of the Government not below the rank of Additional Secretary from the concerned Ministry or any other department relevant to the special focus of the institute;
+
+(d) Four persons from society at large being persons of distinction in the field of administration, management, education, academics law, accountancy, medicine, fine arts, architecture, agriculture, science, technology and engineering, such that the appointment of these persons reflects a balance across the various fields;
+
+(e) One person from amongst us the alumni of the Institute;
+
+(f) Two persons from the academic community of the country, other than an employee of the Institute, at the level of professor aur principal of a college;
+
+(g) Four Institute teachers; (One from each tier i.e. Professor, Associate Professor and Lecturer);
+
+(h) One person nominated by the Commission; and
+
+(i) Two Directors of the Company (Smart Higher Education Services (Pvt). Ltd).
+
+(2) The number of the members of the Board of Governors described under clauses (e) to (h) of sub-section (1) may be increased by the Board of Governors through statutes subject to condition that the total membership of the Board of Governors does not exceed twenty one, with a maximum of five Institute teachers, and the increase is balanced, to the extent possible, across the different categories specified in sub-section (1).
+
+(3) All appointments to the Board of Governors shall be made by the Chancellor. Appointments of person specified under clauses and (e) and (f) of sub-section (1) shall be made from amongst a panel of three names for each vacancy recommended by the representation committee set up in terms of section 25 and in accordance with the procedure as may be prescribed:
+
+Provided that effort shall be made, without compromising on quality or qualification, to give fair representation to women on the Board of Governor:
+
+Provided further that as regards the Institute teachers described in clause (g) of sub-section (1) the Board of Governors shall prescribe a procedure for appointment on the basis of elections that provide for voting by the various categories of Institute teachers:
+
+Provided further that the Board of Governors may alternatively describe that appointment of Institute teachers to the Board of Governors shall also be in the manner provided by this sub-section for the persons described in clauses (e) and (f) of sub-section (1).
+
+(4) Members of the Board of Governors, other than ex-officio members, shall hold office for three years. One-third of the members, other than ex-officio members, of the first restructured Board of Governors, to be determined by lot, shall retire from office on the expiration of one year from the date of appointment by the Chancellor. One-half of the remaining members, other than ex-officio members, of the first restructured Board of Governors, to be determined by lot, shall retire from office on expiration of two years from the date of appointment and the remaining one-half other than an ex-officio members, shall retire from office on expiration of the third year:
+
+Provided that no person, other than an ex-officio member, may serve on the Board of Governors for more than two consecutive terms:
+
+Provided further that the Institute Teachers appointed to the Board of Governors may not serve for two consecutive terms.
+
+(5) The Board of Governors shall meet at least twice in a calendar year.
+
+(6) Service on the Board of Governors shall be on honorary basis:
+
+Provided that actual expenses may be reimbursed as may be prescribed.
+
+(7) The Registrar shall be secretary of the Board of Governors.
+
+(8) In the absence of the Chancellor meetings of the Board of Governors shall be presided over by such member, not being an employee of the Institute or the Government, as a Chancellor may, from time to time, nominate. The member so nominated shall be the convener of the Board of Governors.
+
+(9) Unless otherwise prescribed by this Act, all decisions of the Board of Governors shall be taken on the basis of the opinion of a majority of the members present. In the event of the members being evenly divided on any matter the person presiding over the meeting shall have a casting vote.
+
+(10) The quorum for a meeting of the Board of Governors shall be two-thirds of its membership, a fraction being counted as one.
+
+#### 20. Powers and functions of the Board of Governors
+
+(1) The Board of Governors shall have power of general supervision over the institute and shall hold the Vice-Chancellor and the Authorities accountable for all the functions of the Institute. The Board of Governors shall have all the powers of the Institute not expressly vested in an authority or officer by this Act and all other powers not expressly mentioned by this Act that are necessary for the performance of its functions but which are not inconsistent with the provisions of this act or the statutes regulations and rules made thereunder.
+
+(2) Without prejudice to the generality of the foregoing powers; the Board of Governors shall have the following powers,-
+
+(a) To approve proposed annual plan of work, the annual and revise budgets, the annual report and the annual statement of accounts;
+
+(b) To hold, our control and lay down policy for the administration of the property, funds and investment of the Institute, including the approval of the sale and purchase or acquisition of immovable property;
+
+(c) To oversee quality and relevance of the Institute’s academic programs and to review the academic affairs of the Institute;
+
+(d) To approve the appointment of the Deans, Professors, Associate Professors and such other senior faculty and senior administrators as may be prescribed;
+
+(e) To institute schemes, directions and guidelines for the terms and conditions of appointment of all officers, teachers and other employees of the institute;
+
+(f) To approve strategic plans of the Institute;
+
+(g) To approve financial resource development plans of the Institute;
+
+(h) To consider drafts of statutes and regulations proposed by the Executive Committee and the Academic Council and deal with them in the manner as provided for in section 27 and 28, as the case may be:
+
+Provided that the Board of Governor may frame statute or regulation on its own initiative and approve it after calling for the advice of the Executive Committee for the Academic Council as the case may be;
+
+(i) To annul by order in writing the proceedings of any authority or officer if the Board of Governor is satisfied that such proceedings are not in accordance with the provisions of this Act, statutes or regulations after calling upon such Authority or officer to show cause why is such proceedings should not be annulled;
+
+(j) To recommend to the Chancellor removal of any member of the Board of Governors in accordance with the provisions of this Act;
+
+(k) To make appointment of members of the Executive Committee, other than ex-officio members, in accordance with the provisions of the Act;
+
+(l) To make appointment of members of the Academic Council, other than ex-officio members, in accordance with the provisions of this Act;
+
+(m) To appoint Professors Emeritus on such terms and conditions as may be prescribed;
+
+(n) To remove any person from the membership of any authority if such person,—
+
+(i) Has become of un-sound mind; or
+
+(ii) Has become incapacitated to function as member of such authority; or
+
+(iii) Has been convicted by a court of law for an offense involving moral turpitude; and
+
+(o) To determine the form, provide for the custody and regulate the use of the common seal of the Institute.
+
+(3) The Board of Governors may, subject to the provisions of this Act delegate all or any of the powers and functions of any authority, officer or employee of the Institute at its main campus, to any authority, committee, officer or employee at its additional campus for the purpose of exercising such powers and performing such functions in relation to such additional campus, and for this purpose the Board of Governors may create new post or positions at the additional campus.
+
+(4) The Board of Governors may in accordance with the Act and procedure laid down in rules and regulations inspection to be made in respect of any matter connected with the Institute.
+
+#### 21. Syndicate
+
+(1) There shall be an Syndicate of the Institute consisting of the following,-
+
+(a) Vice-Chancellor who shall be its Chairperson;
+
+(b) Deans of the faculties of the Institute/Units;
+
+(c) Three professors from different departments, who are not members of the Board of Governors, be elected by the Institute teachers in accordance with procedure to be prescribed by the Board of Governors;
+
+(d) Principals of the constituent colleges;
+
+(e) Registrar;
+
+(f) Treasurer; and
+
+(g) Controller of Examinations.
+
+(2) Members of the Syndicate, other than ex-officio members, shall hold office for three years.
+
+(3) As regards the three Professors described in clause (c) of sub-section (1) the Board of Governor may, as an alternative to elections, prescribe a procedure for proposal of a panel of names by the representation committee set up in terms of section 25. Appointment of persons proposed by the representation committee may be made by the Board of Governors on the recommendation of the Vice-Chancellor.
+
+(4) The quorum for a meeting of the Syndicate shall be one-half of the total number of members, a fraction being counted as one.
+
+(5) The Syndicate shall meet at least once in each quarter of the year.
+
+#### 22. Powers and duties of the Syndicate
+
+(1) The Syndicate shall be the executive body of the Institute and shall, subject to the provisions of this Act and the statutes, exercise general supervision over affairs and management of the Institute.
+
+(2) Without prejudice to the generality of the foregoing powers, and subject to the provisions of this Act, the statutes and directions of the Board of Governors shall have the following powers,—
+
+(a) Consider the annual report, the annual and revised budget estimates and to submit these to the Board of Governors;
+
+(b) Transfer and accept transfer of movable property on behalf of the institute;
+
+(c) Enter into, vary, carry out and cancel contracts on behalf of the Institute;
+
+(d) Cause proper books of accounts to be kept for all sums of money received and expended by the Institute and for the assets and liabilities of the Institute;
+
+(e) Invest any money belonging to the Institute including any un-applied income in any of the securities described in section 20 of the Trusts Act, 1882 (Act II of 1882), or in the purchase of immovable property or in such other manner, as may be prescribe, with the like power of varying such investments;
+
+(f) Receive and manage any property transferred, and grants bequests, trust, gifts donations, endowments, and other contributions made to the Institute;
+
+(g) Administer any refunds placed at the disposal of the Institute for specified purposes;
+
+(h) Provide the buildings, libraries, premises, furniture, apparatus, equipment and other means required for carrying out the work of the Institute;
+
+(i) Establish and maintain halls of residence and hostels or approve or license hostels or lodgings for the residents of students;
+
+(j) Recommend to the Board of Governor admission of educational institutions to the privileges of the Institute and withdraw such privileges;
+
+(k) To arrange for the inspection of colleges, school and the departments;
+
+(l) Institute Professorships, Associate Professorships, Assistant Professorships, Lectureships, and other teaching posts or to suspend or to abolish such posts;
+
+(m) Create, suspend or abolish such administrative or other posts as may be necessary;
+
+(n) Prescribe the duties of officers, teachers and other employees of the Institute;
+
+(o) Report to the Board of Governor on matters with respect to which it has been asked to report;
+
+(p) Appoint members to various authorities in accordance with the provisions of this Act;
+
+(q) Propose drafts of Statutes for submission to the Board of Governor;
+
+(r) Regulate the conduct and discipline of the students of the Institute;
+
+(s) Take actions necessary for the good administration of the Institute in general and to this end exercise such powers as are necessary;
+
+(t) Delegate any of its powers to any authority or officer or a committee; and
+
+(u) Perform such other functions as have been assigned to it by provisions of this Act or may be assigned to it by the Statutes.
+
+#### 23. Director Planning and Development
+
+(1) There shall be a Director Planning & Development of the Institute to be appointed by the Board of Governors on the recommendation of the Syndicate for a period of three years (once renewable) on such terms & conditions as may be prescribed.
+
+(2) The minimum experience as well as the professional and academic qualifications necessary for the appointment to the post of Director Planning and Development shall be prescribed.
+
+(3) The Director Planning & Development shall be responsible for all matters connected with planning and development and perform such other duties as may be prescribed.
+
+(4) The Director Planning & Development shall,—
+
+(i) Prepare short and long-term plans and development programs to meet vision, goals and priorities set by Institute management/Board of Governors;
+
+(ii) Conduct comprehensive review, assessment and analysis of development planning process (project identification, appraisal, selection, implementation, and monitoring) and mechanism;
+
+(iii) Develop a strategy for improving development planning processes and mechanisms based on findings of the situation analysis;
+
+(iv) Provide technical support in developing project proposals and PCs-I, for the Institute;
+
+(v) Preparation of the PC-I, PC-II, PC-III, PC-IV and PC-V;
+
+(vi) Preparation of cash work and activity plan;
+
+(vii) Preparation of quarterly expenditure statements;
+
+(viii) Preparation of monthly and quarterly progress reports;
+
+(ix) To coordinate with works, purchase, store units and accounts; and
+
+(x) To communicate/submit reports, plans and projects to different donors.
+
+(5) The Board of Governors may on the recommendations/advice of Syndicate, terminate the services of Director Planning & Development on grounds of in-efficiency or misconduct in accordance with the prescribed procedure.
+
+#### 24. Director Quality Enhancement Cell (QEC)
+
+(1) There shall be a Director Quality Enhancement Cell (QEC) of the Institute to be appointed by the Board of Governors on the recommendation of Syndicate for a renewable period of three years on such terms & conditions as may be prescribed.
+
+(2) The minimum experience as well as the professional and academic qualifications necessary for the appointment to the post of Director Quality Enhancement Cell (QEC) shall be as may be prescribed.
+
+(3) The Director Quality Enhancement (QEC) shall be responsible to,—
+
+(i) Review the quality standards and the quality of teaching and learning in each subject areas;
+
+(ii) Review the academic association with other Institutions in terms of effective management of standards and quality of programs;
+
+(iii) Defining clear and explicit standards as points of reference to the review to be carried out. It should also help the employees to know as to what they could expect from candidates;
+
+(iv) Developing qualifications framework by setting out the attributes and abilities that can be expected from the holder of a qualification, i.e. under-graduate and graduate programs; developing program specifications. These are standards set of information clarifying what knowledge, understanding, skills and other/attributes a student will have developed on;
+
+(v) Successfully completing a specific program;
+
+(vi) Developing quality assurance processes and methods of evaluation to affirm that the quality of provision and the standard of awards are being maintained and to foster curriculum, subject and staff development together with research and other scholarly activities;
+
+(vii) Ensure that the Institute’s quality assurance procedures are designed to fit in with the arrangements in place nationally and;
+
+(viii) Internationally for maintaining and improving the quality of Higher Education;
+
+developing procedures and processes, monitoring and evaluation systems, and standards for the fol1owing,—
+
+(a) The approval of new program;
+
+(b) Annual monitoring and evaluation including program monitoring, faculty monitoring and student perceptions;
+
+(c) Departmental review;
+
+(d) Student feedback;
+
+(e) Employer feedback;
+
+(f) Quality assurance of under-graduate, graduate & doctoral programs;
+
+(g) Institutional assessment and performance evaluation;
+
+(h) Program specifications;
+
+(i) Qualification framework.
+
+(ix) Director Quality Enhancement Cell (QEC) shall be the member of all statutory bodies/committees of the Institute.
+
+(4) The Board of Governors may on the recommendations or advice of Syndicate, terminate the services of Director Quality Enhancement Cell (QEC) on grounds of in-efficiency or misconduct in accordance with the prescribed procedure.
+
+#### 25. Director of Office of Research, Innovation and Commercialization (ORIC)
+
+(1) There shall be a Director (ORIC) of the Institute to be appointed by the Board of Governors on the recommendation of Syndicate for a renewable period of three years on such terms and conditions as may be prescribed.
+
+(2) The minimum experience as well as the professional and academic qualifications necessary for the appointment to the post of Director (ORIC) shall be as may be prescribed.
+
+(3) The Director (ORIC) shall,—
+
+(i) manage and enhance the research activities of the Institute, develop research policies and priorities, work. for fund raising for research, mobilize faculty, business community and industry for research commercialization and serve as an effective advocate for research with the university/Institute and to its broader community of stakeholders and supporters;
+
+(ii) to supervise all aspects of the operation of the Office of the Research including research administration (budgeting, auditing, accounting, human resources, management and maintenance of facilities and equipment, implementation of research contracts and human resources);
+
+(iii) to develop programs and activities that will increase funding for research from all public and private sources, establish and maintain excellent relationships with donors and private sources, oversee proposals development and submission;
+
+(iv) to promote the development of public-private partnerships in support of Institute research, link the Institute’s research community with the needs and priorities of the corporate sector, develop opportunities for applied research and explore opportunities for technology transfer and commercialization of Institute research (including incubators and research parks);
+
+(v) be responsible to monetize royalty streams from licenses;
+
+(vi) collaborate with the principal liaison for technical marking and licensing on the commercialization of the Institute’s IP in coordination with other relevant department and offices.
+
+(vii) work in close liaison with the office of research and development, planning and development, and Institute’s technology park.
+
+(4) The Board of Governors may on the recommendations/advice of Syndicate. Terminate the services of Director (ORIC) on grounds of in-efficiency or misconduct in accordance with the prescribed procedure.
+
+#### 26. Academic Council
+
+(1) There shall be an Academic Council of the Institute consisting of the following,—
+
+(a) Vice-Chancellor who shall be its Chairperson;
+
+(b) Deans of faculties and such heads of departments as may be prescribed;
+
+(c) Five members representing the departments, institutes and the constituent colleges/school to be elected in the manner prescribed by the Board of Governors;
+
+(d) Five Professors including Professors Emeritus;
+
+(e) Registrar;
+
+(f) Controller of Examinations; and
+
+(g) Librarian.
+
+(2) The Board of Governors shall appoint the members of the Academic Council, other than ex-officio and elected members, on the recommendation of the Vice-Chancellor:
+
+Provided that as regards the five professors and the members representing the departments, institutes and the constituent colleges/school the Board of Governor may, as an alternative to elections, prescribe a procedure for proposal of panel of names, by the representation committee set up in terms under this Act Appointment of persons proposed by the representation committee may be made by the Board of Governor on recommendation of the Vice- Chancellor.
+
+(3) Members of the Academic Council shall hold office for three years.
+
+(4) The Academic Council shall meet at least once in each quarter.
+
+(5) The quorum for meetings of the Academic Council shall be one half of the total number of members, a fraction being counted as one.
+
+#### 27. Powers and functions of the Academic Council
+
+(1) The Academic Council shall be the principal academic body of the Institute and shall, subject to the provisions of this Act and the statutes, have the power to lay down proper standards of instruction, research and examinations and to regulate and promote the academic life of the Institute and the colleges/schools.
+
+(2) Without prejudice to the generality of the foregoing powers, and subject to the, provisions of this Act and the statutes, the Academic Council shall have the power to,—
+
+(a) Approve the policies and procedures pertaining to the quality or academic programs;
+
+(b) Approve academic programs;
+
+(c) Approve the policies and procedures pertaining to student related functions including admissions, expulsions, punishments, examinations and certification;
+
+(d) Approve the policies and procedures assuring quality of teaching and research;
+
+(e) Propose to the Syndicate schemes for the constitution and organization of faculties, teaching departments and boards of studies;
+
+(f) Appoint paper setters and examiners for all examinations of the Institute after receiving panels of names from the relevant authorities;
+
+(g) Institute programs for the continued professional development of Institute teachers at all levels;
+
+(h) Recognize the examinations of other Universities or examining bodies as equivalent to the corresponding examinations of the Institute;
+
+(i) Regulate award of studentships, scholarships, exhibitions, medals and prizes;
+
+(j) Frame Regulations for submission to the Board of Governor;
+
+(k) Prepare an annual report on the academic performance of the Institute; and
+
+(l) Perform such functions as may be prescribed by regulations.
+
+#### 28. Representation Committees
+
+(1) There shall be a representation committee constituted by the Board of Governor through Statutes for recommendation of persons for appointment to the Board of Governor in accordance with the provisions of section 19.
+
+(2) There shall also be a Representation Committee constituted by the Board of Governor through statutes for the recommendation of persons for appointment to the Syndicate and the Academic Council in accordance with the provisions of sections 21 and 23.
+
+(3) Members of the representation committee for appointments to the Board shall consist of the following,__
+
+(a) three members of the Board of Governor who are not Institute teachers;
+
+(b) two persons nominated by the Institute teachers from amongst themselves in the manner prescribed;
+
+(c) one person from the academic community, not employed by the Institute, at the level of professor or college/school principal to be nominated by the Institute teachers in the manner prescribed; and
+
+(d) one eminent citizen with experience in administration, philanthropy, development work, law or accountancy to be nominated by the Board of Governor.
+
+(4) The representation committee for appointments to the Executive Committee and the Academic Council shall consist of the following,__
+
+(a) two members of the Board of Governors who are not Institute teachers;
+
+(b) three persons nominated by the Institute teachers from amongst themselves in the manner prescribed.
+
+(5) The tenure of the representation committees shall be three years:
+
+Provided that no member shall not serve for more than two consecutive terms.
+
+(6) The procedures of the representation committees shall be as may be prescribed.
+
+(7) There may also be such other representation committees set up by any of the other authorities of the Institute as are considered appropriate for recommending persons for appointment to the various authorities and other bodies of the Institute.
+
+#### 29. Appointment of Committees by certain Authorities
+
+(1) The Board of Governors, the Syndicate, the Academic Council and other authorities may, from time to time, appoint such standing, special or advisory committees, as they may deem fit, and may place on such committee persons who are not members of the authorities appointing the committees.
+
+(2) The constitution, functions and powers of the authorities for which no specific provision has been made in this Act shall be such as may be prescribed by statutes or regulations.
+
+### CHAPTER-V
+
+STATUTES, REGULATIONS AND RULES
+
+#### 30. Statutes
+
+(1) Subject to the provisions of this Act, statutes, to be published in the official Gazette, may be made to regulate or prescribe all or any of the following matters,-
+
+(a) the contents of and the manner in which the annual report to be presented by the Vice-Chancellor before the Board of Governors shall be prepared;
+
+(b) the Institute fees and other charges;
+
+(c) constitution of any pension, insurance, gratuity, provident fund and benevolent fund for Institute employees;
+
+(d) scales of pay and other terms and conditions of service of officers, teachers and other Institute employees;
+
+(e) maintenance of the register of registered graduates;
+
+(f) admission of educational institutions to the privileges of the Institute and the withdrawal of such privileges;
+
+(g) establishment of faculties, departments, institutes, colleges/school, study centres and other academic divisions;
+
+(h) powers and duties of officers and teachers;
+
+(i) conditions under which the Institute may enter into arrangements with other institutions or with public bodies for purposes of research and advisory services;
+
+(j) conditions for appointment of Emeritus Professors and award of honorary degrees;
+
+(k) efficiency and discipline of Institute employees;
+
+(l) the constitution and procedure to be followed by representation committees in carrying out functions in terms of this Act;
+
+(m) the constitution and procedure to be followed by the Search Committee for appointment of the Vice- Chancellor;
+
+(n) constitution, functions and powers of the authorities of the Institute; and
+
+(o) all other matters which by this Act are to be or may be prescribed or regulated by statutes.
+
+(2) The draft of statutes shall be proposed by the Syndicate to the Board of governors which may approve or pass with such modifications as the Board of Governors may think fit or may refer back to the Syndicate, as the case may be, for reconsideration of the proposed draft:
+
+Provided that statutes concerning any of the matters mentioned in clauses (a) and (1) of sub-section (1) shall be initiated and approved by the Board of Governors, after seeking the views of the Syndicate:
+
+Provided further that the Board of Governors may initiate a statute with respect to any matter in its power or with respect to which a statute may be framed in terms of this Act and approve such Statute after seeking the views of the Syndicate.
+
+#### 31. Regulations
+
+(1) Subject to the provisions of this Act and the statues, the Academic Council may make Regulations, to be published in the official Gazette, for all or any of the following matters,__
+
+(a) courses of study for degrees, diplomas and certificates of the Institute;
+
+(b) manner in which the teaching referred to in sub-section (1) of section 6 shall be organized and conducted;
+
+(c) admission and expulsion of students to and from the Institute;
+
+(d) conditions under which students shall be admitted to the courses and examinations of the Institute and shall become eligible for award of degrees, diplomas and certificates;
+
+(e) conduct of examinations;
+
+(f) conditions under which a person may carry on independent research to entitle him to a degree;
+
+(g) institution of fellowships, scholarships, exhibitions, medals and prizes;
+
+(h) use of the Library;
+
+(i) formation of faculties, departments and board of studies; and
+
+(j) all other matters which by this Act or the statutes are to be or may be prescribed by Regulations.
+
+(2) Regulations shall be proposed by the Academic Council and shall be submitted to the Board of Governors which may approve them or withhold approval or refer them back to the Academic Council for reconsideration. A regulation proposed by the Academic Council shall not be effective unless it receives approval of the Board of Governors.
+
+(3) Regulations regarding or incidental to matters contained in clauses (g) and (i) of sub-section (1) shall not be submitted to the Board of Governors without the prior approval of the Syndicate.
+
+#### 32. Amendment and repeal of Statutes and Regulations
+
+The procedure for adding to, amending or repeating thg Statutes and the Regulations shall be the same as that prescribed respectively for framing or making Statutes and Regulations.
+
+#### 33. Rules
+
+(1) The authorities and the other bodies of the Institute may make rules, consistent with the Act, statutes or the regulations, to regulate any matter relating to the affairs of the Institute which has not been provided for by this Act or that is not required to be regulated by statutes or regulations, including rules to regulate the conduct of business and the time and place of meetings and related matters.
+
+(2) Rules shall become effective upon approval by the Syndicate.
+
+### CHAPTER-VI
+
+INSTITUTE FUND
+
+#### 34. Institute Fund
+
+(1) The institute shall have a fund to which shall be credited its income from fees, donations, trusts, bequests, endowments, grants, contributions and all other sources.
+
+(2) Capital recurrent expenditure of the Institute shall be met from the contributions made by the Board of Governors and any other source, including other foundations, universities and individuals, and from the income derived from such sources.
+
+(3) No contribution, donation or grant which may directly or indirectly involve an immediate or subsequent financial liability for the Institute, shall be accepted without prior approval of the Board of Governors.
+
+#### 35. Audit and Accounts
+
+(1) The accounts of the Institute shall be maintained in such form and manner as may be determined by the Board of Governors and shall be audited each year within four months of the closing of the financial year of the Institute by an independent Chartered Accountant appointed by the Board.
+
+(2) The accounts, together with the report of the auditor thereon, shall be submitted to the Board for approval.
+
+(3) The auditor’s report shall certify that the auditor has complied with the standards of audit and certification laid down by the Institute of Chartered Accountants of Pakistan.
+
+### CHAPTER-VII
+
+GENERAL PROVISIONS
+
+#### 36. Service of the Institution
+
+(1) All employee of the Institute in accordance with the terms and conditions of the prescribed service by the statute shall be person in service of the institute.
+
+(2) An officer, teacher and other employee of the Institute shall retire from service on attainment of such age or tenure of the service as may be prescribed.
+
+#### 37. Opportunity of show cause
+
+Except as otherwise provided, no officer, teacher or other employee of the Institute holding a permanent post, shall be reduced in rank, or removed or compulsorily retired from service, unless he has been given a reasonable opportunity of showing cause against the action proposed to be taken against him.
+
+#### 38. Appeal to the Board of Governors
+
+(1) Where an order has been passed punishing an employee other than the Vice-Chancellor, or altering or interpreting to his dis-advantage the prescribed terms or conditions of his service, he shall, where the order is passed, by the Vice- Chancellor or any other officer or teacher of the Institute, has the right to appeal to the Board of Governors against the order, and where the order is made by the Board of Governors has the right to apply to the Board of Governors for review of that order.
+
+(2) The appeal or application for review shall be submitted to the Vice-Chancellor who shall lay it before the Board of Governors with his views and record of the case.
+
+(3) No order in appeal or review shall be made unless the appellant or the applicant, as the case may be has been given an opportunity of being heard.
+
+#### 39. Benefits and Insurance
+
+(1) The institute shall constitute for the benefit of its employees in such manner and subject to such conditions as may be prescribed, such Schemes for the provisions of post-employment benefit as well as health and life insurance while in service.
+
+(2) Where any provident fund has been constituted under this Act the provision of Provident Fund Act, 1925 (XIX of 1925) shall apply to such fund.
+
+#### 40. Commencement of term of members of Authorities
+
+(1) When a member of a newly constituted authority is elected, appointed or nominated, his term of office, as fixed under this Act shall commence from such date as may be prescribed.
+
+(2) Where a member who has accepted any other assignment or for any other similar reason remained absent from the Institute for a period of not less than six months he shall be deemed to have resigned and vacated his seat.
+
+#### 41. Filling of casual vacancies in authorities
+
+Any casual vacancy among the members of the authority shall be filled, as soon as conveniently may be, in the same manner and by the same person or Authority that had appointed the member whose place has become vacant and the person appointed to the vacancy shall he a member of such authority for the residue of the term for which the person whose place he fills would have been a member.
+
+#### 42. Disputes about membership of authorities
+
+(1) Notwithstanding anything contained in this Act, a person nominated or appointed to any authority shall cease to be member of such authority as soon as he cease to hold the position by virtue of which he was nominated or appointed.
+
+(2) If a question arises whether any person is entitled to be a member of any authority, the matter shall be referred to a committee consisting of the Chancellor, two nominees of the Board of Governor and a nominee of the Vice-Chancellor and the decision of the committee thereon shall be final and binding.
+
+#### 43. Proceedings of authorities not invalidated by the vacancies
+
+No Act, resolution or decision of any authority shall be invalid by reason of any vacancy on the Authority doing, passing, or making it or by reason of any want of qualification or appointment or nomination of any de facto member or the authority, whether present or absent.
+
+#### 44. Transitory Provisions
+
+(1) Notwithstanding anything contained in this Act, the Board of Governor shall be structured and the members thereof, except the Institute teachers, appointed by the Chancellor in accordance with the numbers and criteria for membership specified in this Act. As regards the Institute teachers, they shall also be appointed by the Chancellor for first structured Board of Governor and subsequently they will be elected or appointed as per prescribed manner. The first structured Board of Governor so constituted shall initiate, as soon as possible, the process for the appointment of the members of the Syndicate and the Academic Council in accordance with the terms of this Act. The term of tenure provided in sub-section (4) of section 19 notwithstanding, one-third of the members, other than ex-officio members, of the first structured Board of Governor, to be determined by lot, shall retire from office on the expiration of one year from the date of appointment by the chancellor. One-half of the remaining members, other than ex-officio members, of the first structured Board of Governor, to be determined by lot, shall retire from office on the expiration of two years from the date of appointment and the remaining one-half, other than ex-officio members, shall retire from office on the expiration of the third year.
+
+(2) Notwithstanding anything contained in this Act, the first Vice- Chancellor shall be appointed by the Chancellor for a period of three years.
+
+#### 45. Removal of Difficulties
+
+(1) If any question arises as to the interpretation of any of the provisions of this Act, it shall be placed before the Chancellor and Commission whose decision thereon shall be final.
+
+(2) If any difficulty arises in giving effect to any of the provisions of this Act, the chancellor may make such order after obtaining the views of Board of Governors, not inconsistent with the provisions of this Act, as may appear to him to be necessary for removing the difficulty.
+
+(3) Where this Act makes any provision for anything to be done but no provision or no sufficient provision has been made as respect the authority by whom, or the time at which, or the manner in which, it shall be done, then it shall be done by such authority, at such time, or in such manner as the Chancellor may direct after obtaining the views of the Board of Governors.
+
+#### 46. Flaws in constitution of authority
+
+Where there is flaw in the constitution of an authority, as constituted by this Act, the statutes or the regulations, institutions or other body outside the institute has been dissolved or has ceased to function, or because of some other similar reasons, such flaws shall be removed in such manner Board of Governor directed.
+
+#### 47. First Statute and Regulations
+
+Now with standing anything contained in this Act, the President of Pakistan shall Promulgate the first statute and regulations which shall be deemed to be status and regulations framed under this Act shall continue to remain in force until amended or repeated or till such time as new statutes and regulations are framed in accordance with the provisions of this Act.
+
+#### 48. Indemnity
+
+No suit or legal proceedings shall lie against the Government, the Institute or any authority or employee of the institute or any person, in respect of anything which is done, or purported to have been done in good faith this Act.

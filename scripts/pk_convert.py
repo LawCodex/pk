@@ -42,12 +42,13 @@ def law_type(title):
     t = title.lower()
     if "constitution of the islamic republic" in t and "amendment" not in t:
         return "constitution"
-    for k, v in [("ordinance", "ordinance"), ("president's order", "order"), ("president’s order", "order"),
-                 (" order", "order"), ("regulation", "regulation"), ("rules", "rules"), ("code", "code"),
-                 ("act", "act")]:
-        if re.search(r"\b" + k.strip() + r"\b", t):
-            return v
-    return "act"
+    base = re.sub(r"\(.*?\)", " ", t)
+    found = re.findall(r"\b(act|ordinance|order|regulations?|rules|code|estacode)\b", base)
+    if not found:
+        return "act"
+    last = found[-1]
+    return {"act": "act", "ordinance": "ordinance", "order": "order", "regulation": "regulation",
+            "regulations": "regulation", "rules": "rules", "code": "code", "estacode": "code"}[last]
 
 
 def main():
@@ -70,14 +71,15 @@ def main():
         date = parse_date(r.get("promulgation"))
         ym = re.search(r"\b(1[6-9]\d\d|20\d\d)\b(?!.*\b(1[6-9]\d\d|20\d\d)\b)", re.sub(r"\(.*?\)", "", title)) or \
             re.search(r"\b(1[6-9]\d\d|20\d\d)\b", title)
-        year = (date or "")[:4] or (ym.group(1) if ym else "undated")
+        ny = re.search(r"of\s+(1[6-9]\d\d|20\d\d)\b", r.get("number") or "")
+        year = (date or "")[:4] or (ym.group(1) if ym else (ny.group(1) if ny else "undated"))
         if ym and typ != "constitution":
             year = ym.group(1)
         num = r.get("number") or ""
         if typ == "constitution":
             rel = "constitution/constitution-of-the-islamic-republic-of-pakistan.md"
         else:
-            nslug = slug(num.split(" of ")[0]) if num else ""
+            nslug = slug(re.split(r"(?:^|\s)of\s", num)[0]) if num else ""
             base = f"{year}-{nslug + '-' if nslug else ''}{slug(re.sub(r',?\s*' + year + r'\s*$', '', title))}"
             rel = f"laws/{year}/{base[:100].rstrip('-')}.md"
         if rel in seen:
